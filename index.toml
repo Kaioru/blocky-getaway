@@ -5,6 +5,11 @@ file = "README.md"
 hash = "2b18ec36396be2a935aa50734d644727f8311ce929d031b2b66930a5175db0db"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
 metafile = true
