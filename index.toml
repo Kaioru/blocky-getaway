@@ -90,6 +90,26 @@ hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "b9f6961e8ede891072ef0dcb212bce67a414bfcb9872b17a897582a0883f9804"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-bushy-leaves.pw.toml"
+hash = "1a6c3c680f27e09f457cc259acfbbdaa12f43f4c5ab8ab599a4c96f5f8c18b4f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "81e456094c4decb60cd5af5e7eaf53d9b3ba775aa05ea319c99d2325e60ca6a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "a7034e6233338f7a4002510c8a21863922ccec654a443f512a01e0e65bba0210"
+metafile = true
+
+[[files]]
 file = "shaderpacks/yofps.pw.toml"
 hash = "d254128cffe294633bc371c7e73d7c28a9588853942c2c42640a1d82ff341961"
 metafile = true
