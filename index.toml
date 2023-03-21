@@ -9,6 +9,11 @@ file = "config/yosbr/options.txt"
 hash = "28e70eae981fd41562948f7bdd779377430440ade5c7bb66aa9a4d1015e01c8e"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "03586e60a57ea47f8c0f67e6ae8e74c411a1e3787979f593530e9c8cb9f2a2ca"
 metafile = true
@@ -26,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "a848857985e7dfd249d3a7eb32a62e04b60edfb3d57a11fa8a49703065ef3e0a"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "5d7e323c56fe38f5cbab8e6ebcfb157e7f42c37b9acbaf474f1d21766802157f"
 metafile = true
 
 [[files]]
@@ -79,6 +89,11 @@ hash = "889b670a855e618ccd3267888c6619d8875e3320bb183f435993a07aa1c94490"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "ee1b4f6aa31f789dc845fa936be733bccf56714d90782ba574c8968cb89604d9"
 metafile = true
@@ -91,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/colormatic.pw.toml"
 hash = "716ae4fd4d1d58db3b4b7a9dc2fb0d0df6ecf9c913e04869812a6a5d9a1d90bb"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
 metafile = true
 
 [[files]]
@@ -121,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "1bf1172a83d261202c4fb902bca2dc7997905f7a6a8009aa9fb23baa902473c8"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "4f15070fd65003a7f2e99e7b622dfca850f33826a562fdb9f47a3e90653861c6"
 metafile = true
 
 [[files]]
@@ -156,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "956d39f0b93aa2f92c9b5521387cc16438fafc035a9601a9d55494ae92ed8c0f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
@@ -206,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/languagereload.pw.toml"
 hash = "c20645d9b888225832fb408e1d48c429c6333c8349f0bcecdec5c7e187ea9abd"
+metafile = true
+
+[[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "4dcbc0c13835a68f1c58e75216beed433609e4565800f22342279f7934f7044b"
 metafile = true
 
 [[files]]
@@ -266,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "6bbd38bf5bf8a021dd8a92a971a65ff88d2b2177ae5000cd322cdbc859eea4dd"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
 
 [[files]]
