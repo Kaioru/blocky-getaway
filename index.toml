@@ -24,6 +24,16 @@ hash = "a848857985e7dfd249d3a7eb32a62e04b60edfb3d57a11fa8a49703065ef3e0a"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
+metafile = true
+
+[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
@@ -144,6 +154,11 @@ hash = "8b7d66d060cd640af8df7bac02529d4d0773c24d3a83399219942df1c41f44c5"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c54336cc0d6659f031b4aff3fd9e95091e6109f072134fa51c5c73ddb67a1b80"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "c8ed0dba9ff3d6097ff0e98fb739fbacccfa15d7ba14d4a5bbd5a0e1dd58068a"
 metafile = true
@@ -166,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "85e7f7c103953f7bf39aee06e32793ef05f43accfed035fc7bc5a970e6c16630"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "502d1d1e0b9be3b91e454bdd4d5f91c216357275d0f5c581e9c72f35030ecd2b"
 metafile = true
 
 [[files]]
@@ -229,6 +249,11 @@ hash = "6155450f14d3d48671b5e96e3d06eb4e6e0262a2e5e917be25edda3abf1d5b8d"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot.pw.toml"
 hash = "ee3d980387c796b4342db65d9769dd21222bf4b7250f4a380518a611291cfeea"
 metafile = true
@@ -251,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "ff9734e83519d4b1a516101f16b30650d00877d55ac1b62c24466ee2cc2a825a"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "4a51ff14cc56f1fad18663b01d795e173bbc659116001360e368836255c2b783"
 metafile = true
 
 [[files]]
