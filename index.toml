@@ -49,6 +49,11 @@ hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+metafile = true
+
+[[files]]
 file = "mods/borderlessmining.pw.toml"
 hash = "de041e2c7a3a94cebdef9e22bebb7b81c1340762423209bb9a3fbc4934a9da1d"
 metafile = true
@@ -241,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "c68fd77a3e60f7bfe40892e44d94e21df68f1542230ff709525259257d3fe1ca"
 metafile = true
 
 [[files]]
