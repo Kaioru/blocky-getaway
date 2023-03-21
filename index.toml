@@ -9,6 +9,10 @@ file = "config/bclib/client.json"
 hash = "08a66f9710cb4c05ea1873f5d8e240a26fda072bd280df22469fe1f9182a3fb5"
 
 [[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "bb1b3f1401450c9e6bbdaa85b40f079a7ef82a5fef498b2a7f52276cdaf5da63"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
