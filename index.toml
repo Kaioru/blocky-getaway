@@ -119,6 +119,11 @@ hash = "b018615a06ec13861f68d72fcc917ddef5c61df581bb4ec359a1750082e544f5"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "a5c0c11ef2583adbaeaeba8486de5448197ef7fa1b8ab5fd7bb900ed27c21fc3"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "6bbfc1fc4074dde3c70df219a31428dabdfa96712cc33c210a0ae6d059eb91e0"
 metafile = true
@@ -286,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "ff9734e83519d4b1a516101f16b30650d00877d55ac1b62c24466ee2cc2a825a"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
 
 [[files]]
