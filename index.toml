@@ -20,6 +20,11 @@ hash = "a848857985e7dfd249d3a7eb32a62e04b60edfb3d57a11fa8a49703065ef3e0a"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "a26a337fce738a7bcb616ad11865b27076b615449516d982353f71d4e94297f7"
 metafile = true
