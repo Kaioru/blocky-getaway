@@ -44,6 +44,11 @@ hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "5969255784945bf4fa184d89e6c32e5b430122161f9c6b2cce08574f46f10c87"
 metafile = true
@@ -149,6 +154,11 @@ hash = "4f15070fd65003a7f2e99e7b622dfca850f33826a562fdb9f47a3e90653861c6"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "09effdb99cb31a7024ac68983be1a32840e9972268c81fa93ba73bd994ed6fad"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities.pw.toml"
 hash = "f83b09bffc8ac73221dc3222cc1e7d02cbfcd67f675ae03df0970558e2408d74"
 metafile = true
@@ -166,11 +176,6 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "a5c0c11ef2583adbaeaeba8486de5448197ef7fa1b8ab5fd7bb900ed27c21fc3"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
@@ -349,6 +354,11 @@ hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
 metafile = true
 
 [[files]]
+file = "mods/scout.pw.toml"
+hash = "10886b2438dab2be9b49c79eaf099771e526246f06c2a382ef56100bbcc73077"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot.pw.toml"
 hash = "ee3d980387c796b4342db65d9769dd21222bf4b7250f4a380518a611291cfeea"
 metafile = true
@@ -376,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
