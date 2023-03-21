@@ -34,6 +34,11 @@ hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "82a7535fae2844c327b9305daeef0a0de4e3c3044c14f3e8969b7f21ccd6792e"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
@@ -216,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "08c93ef5dfee0c98340832cc5d1c751a9d016d5772d4d5779dbd9dd4766f0f35"
 metafile = true
 
 [[files]]
