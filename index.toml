@@ -14,6 +14,11 @@ hash = "03586e60a57ea47f8c0f67e6ae8e74c411a1e3787979f593530e9c8cb9f2a2ca"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "181b6bda59e65cadc29604b2053955e9fd8299939ccc4604309e4ac97f2659ac"
 metafile = true
@@ -91,6 +96,16 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "9322278362644f81f8cc456b622d0b761eaf2677abbaca5db1952b23098a33bb"
+metafile = true
+
+[[files]]
+file = "mods/create-crystal-clear-fabric.pw.toml"
+hash = "790d09e1bee44adf6f4867d2c63a4626c96c5b8eec0b9f8ea2a14f8465434f02"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
