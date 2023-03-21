@@ -5,6 +5,10 @@ file = "README.md"
 hash = "ebfd960a47dd9ad5b463479fb8c750717164e444ae2e87e9518ae89928e89bd7"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "28e70eae981fd41562948f7bdd779377430440ade5c7bb66aa9a4d1015e01c8e"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "03586e60a57ea47f8c0f67e6ae8e74c411a1e3787979f593530e9c8cb9f2a2ca"
 metafile = true
