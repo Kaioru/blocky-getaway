@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "2b18ec36396be2a935aa50734d644727f8311ce929d031b2b66930a5175db0db"
+hash = "ebfd960a47dd9ad5b463479fb8c750717164e444ae2e87e9518ae89928e89bd7"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "08a66f9710cb4c05ea1873f5d8e240a26fda072bd280df22469fe1f9182a3fb5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -60,6 +64,11 @@ hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
@@ -110,6 +119,11 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "09effdb99cb31a7024ac68983be1a32840e9972268c81fa93ba73bd994ed6fad"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
 metafile = true
@@ -117,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
 metafile = true
 
 [[files]]
@@ -282,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "ff9734e83519d4b1a516101f16b30650d00877d55ac1b62c24466ee2cc2a825a"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
 
 [[files]]
