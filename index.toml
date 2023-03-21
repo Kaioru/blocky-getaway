@@ -258,3 +258,8 @@ metafile = true
 file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
 hash = "a7034e6233338f7a4002510c8a21863922ccec654a443f512a01e0e65bba0210"
 metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-framed-planks.pw.toml"
+hash = "1fec55578594c8c7d33cc706c7dfc64b7c9652d7d3a62bb7a413e3560f5f63f9"
+metafile = true
