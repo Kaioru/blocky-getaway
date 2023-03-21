@@ -169,6 +169,11 @@ hash = "a5c0c11ef2583adbaeaeba8486de5448197ef7fa1b8ab5fd7bb900ed27c21fc3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "6bbfc1fc4074dde3c70df219a31428dabdfa96712cc33c210a0ae6d059eb91e0"
 metafile = true
@@ -191,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "6c3fc6de171a3ae525039aa28a8ae8cca553a8d801dbe8e84dd1cbf483124600"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
 metafile = true
 
 [[files]]
@@ -296,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "a174274057eed3eb7f5c8c80ee010f2b83a46d3aaa048fc5a9ae8c5612778134"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
