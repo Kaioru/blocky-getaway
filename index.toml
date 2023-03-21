@@ -58,6 +58,11 @@ hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "5969255784945bf4fa184d89e6c32e5b430122161f9c6b2cce08574f46f10c87"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
@@ -210,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "790ca9ec899eca287f0d6e3946d1d88e7d6a02b33db38d538436711145eadaf0"
 metafile = true
 
 [[files]]
