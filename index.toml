@@ -74,6 +74,11 @@ hash = "a26a337fce738a7bcb616ad11865b27076b615449516d982353f71d4e94297f7"
 metafile = true
 
 [[files]]
+file = "mods/big-items-duh.pw.toml"
+hash = "019bf464ad5ea1194749f3fcf302badd861c73e9e08d926b940e625610b7ed30"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
 metafile = true
