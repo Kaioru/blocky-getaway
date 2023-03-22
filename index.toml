@@ -417,6 +417,11 @@ hash = "ee3d980387c796b4342db65d9769dd21222bf4b7250f4a380518a611291cfeea"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "e6b7aed5ae934b4331ff35b6dac657aa5cd4fa0754f4a4d580c05cb74039662f"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a965eb2145648db689e57274dc4999894d35a53db846bbde6e1f0aeab95308ad"
 metafile = true
