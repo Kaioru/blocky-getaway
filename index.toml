@@ -309,6 +309,11 @@ hash = "2bf8a3291d840b5f6ca368d86e005740cf6156f2c51364c29eb5cb3d157a45a2"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "08c93ef5dfee0c98340832cc5d1c751a9d016d5772d4d5779dbd9dd4766f0f35"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "bbbba894f37c75d3f7911ab2bf4bd8feedd4ee6bb92060eb03ffc378a38c07b3"
 metafile = true
