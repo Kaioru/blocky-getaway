@@ -5,11 +5,11 @@ file = "README.md"
 hash = "ebfd960a47dd9ad5b463479fb8c750717164e444ae2e87e9518ae89928e89bd7"
 
 [[files]]
-file = "config/yosbr/byg/biomepedia.json5"
+file = "config/byg/biomepedia.json5"
 hash = "a1f9e191b5cb81f6e51eca3590f571580b8faaacedbbbffffc5abfd639b85e56"
 
 [[files]]
-file = "config/yosbr/byg/client/biomepedia_inventory.json5"
+file = "config/byg/client/biomepedia_inventory.json5"
 hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
 
 [[files]]
