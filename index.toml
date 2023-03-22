@@ -34,6 +34,11 @@ hash = "a848857985e7dfd249d3a7eb32a62e04b60edfb3d57a11fa8a49703065ef3e0a"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
 file = "mods/architects-palette-fabric.pw.toml"
 hash = "5d7e323c56fe38f5cbab8e6ebcfb157e7f42c37b9acbaf474f1d21766802157f"
 metafile = true
@@ -184,6 +189,11 @@ hash = "b018615a06ec13861f68d72fcc917ddef5c61df581bb4ec359a1750082e544f5"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "a5c0c11ef2583adbaeaeba8486de5448197ef7fa1b8ab5fd7bb900ed27c21fc3"
 metafile = true
@@ -196,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "3bf54134dbf492b27b52b95cc994bfe0e3ec089a884ea1fdad0ee4cc33cf28e3"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
 
 [[files]]
