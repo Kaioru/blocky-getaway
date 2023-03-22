@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ebfd960a47dd9ad5b463479fb8c750717164e444ae2e87e9518ae89928e89bd7"
+hash = "0aa5af5050dd4240788081834b813998db6992f53157b4ee36a88f34510c20c6"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
@@ -11,6 +11,10 @@ hash = "a1f9e191b5cb81f6e51eca3590f571580b8faaacedbbbffffc5abfd639b85e56"
 [[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
 hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
+
+[[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "6070260702948972e01200d57d5bda74de9aac81d2550763047d478f770fdeea"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -169,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "1bf1172a83d261202c4fb902bca2dc7997905f7a6a8009aa9fb23baa902473c8"
+metafile = true
+
+[[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "2e1736000b7ff3c58bad89110f4fe0c2e700ebacfb1dd96db03318f5ca1e9d88"
 metafile = true
 
 [[files]]
