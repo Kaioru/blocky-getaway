@@ -456,6 +456,11 @@ hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "f7fa1682ebb46d34efb8a4a5fca1dd52781016598a2d3b6aa9b4fca8ecc5daf2"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
