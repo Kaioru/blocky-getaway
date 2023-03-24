@@ -21,6 +21,11 @@ file = "config/yosbr/options.txt"
 hash = "28e70eae981fd41562948f7bdd779377430440ade5c7bb66aa9a4d1015e01c8e"
 
 [[files]]
+file = "mods/addadd.pw.toml"
+hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "bf395ee2b548aa4e21df962ade82a1f97fa6ad487e904334715a6f9b2a163e66"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
 metafile = true
 
 [[files]]
@@ -283,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "eb586c82b82374cbae08d6cbb80a947834020159b4d06256cce2095a832b5636"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "7d924c5d83b0201d51ae6fea0633999a628321f40d45d2b5f5d25fb60fbcff09"
 metafile = true
 
 [[files]]
