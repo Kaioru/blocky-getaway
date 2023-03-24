@@ -5,7 +5,7 @@ darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","file/Default-Dark-Mode-1.19.2-v1.4.0.zip","file/xali\u0027s Enhanced Vanilla v1.11.1.zip","file/xalis Bushy Leaves v3.3.0.zip","file/xali\u0027s Enchanted Books v0.11.zip","file/xali\u0027s Framed Planks v1.2.0.zip","lambdabettergrass/default","continuity/glass_pane_culling_fix","continuity/default","midnightcontrols/bedrock"]incompatibleResourcePacks:[]
+resourcePacks:["vanilla","file/Default-Dark-Mode-1.19.2-v1.4.0.zip","file/xali\u0027s Enhanced Vanilla v1.11.1.zip","file/xali\u0027s Enchanted Books v0.11.zip","file/xali\u0027s Framed Planks v1.2.0.zip","file/xalis Bushy Leaves v3.3.0.zip","lambdabettergrass/default","continuity/glass_pane_culling_fix","continuity/default","midnightcontrols/bedrock","walllanterns/moddedlanternscompat"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
