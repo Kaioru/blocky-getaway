@@ -246,6 +246,16 @@ hash = "36cf309a2d3d34c591c542acc2b5fcf0c4f9e5316de6d2624b8ec9f1b8db00b9"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "6bbfc1fc4074dde3c70df219a31428dabdfa96712cc33c210a0ae6d059eb91e0"
 metafile = true
@@ -282,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
@@ -351,11 +361,6 @@ hash = "85e7f7c103953f7bf39aee06e32793ef05f43accfed035fc7bc5a970e6c16630"
 metafile = true
 
 [[files]]
-file = "mods/megane.pw.toml"
-hash = "502d1d1e0b9be3b91e454bdd4d5f91c216357275d0f5c581e9c72f35030ecd2b"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "868f100a2b5e3e47724ecf0174364bd44193b51e40c70b9c59a85dcf8aec66b1"
 metafile = true
@@ -418,16 +423,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
@@ -497,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "cb5b7eb800446c47610ced26441b0a4950dcca6c43bdf1ebe12ad9370cbfb3ba"
+hash = "ebd62d551107e371e73678437b480fe4b61d27d7c74e1c5246cae01e9b744c17"
 metafile = true
 
 [[files]]
