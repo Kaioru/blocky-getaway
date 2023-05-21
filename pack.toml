@@ -1,12 +1,12 @@
 name = "Blocky Getaway"
 author = "Kaioru"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "52fca394f0a533fa5387a341062de7bde773d7f5af06c9b2ae882ae2c332c7f3"
+hash = "a28fe2939c22e9887444f86ed55ac312ec06b8df292829919006b1a675e65679"
 
 [versions]
 minecraft = "1.19.2"
